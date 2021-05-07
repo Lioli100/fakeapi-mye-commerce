@@ -32,8 +32,5 @@
     { "id": 1, "produto": 1, "preco produto": "R$ 149.00", "quantidade": 2 },
     { "id": 2, "produto": 2, "preco produto": "R$ 359.00", "quantidade": 3 },
     { "id": 3, "produto": 3, "preco produto": "R$ 255.00", "quantidade": 1 }
-  ],
-   "empresa": {
-     "nome": "E-commerce" 
-  }
+  ]
 }
