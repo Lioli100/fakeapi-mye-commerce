@@ -5,7 +5,7 @@
     {  "id": 3, "descricao":  "Cestas de Café da Manhã" },
     {  "id": 4, "descricao":  "Presentes e Decorações" }
   ],
-   "alunos": [
+   "produto": [
     {  "id": 1, "nome": "6 Girassóis amarrados com rafia",  "categoria": 1 },
     {  "id": 2, "nome": "Caixa decorada com tampa",  "categoria": 2 },
     {  "id": 3, "nome": "Cesta com cerveja artesanal",  "categoria": 2 },
