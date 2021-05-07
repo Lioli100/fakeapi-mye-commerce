@@ -15,6 +15,23 @@
     {  "id": 7, "nome": "Almofada coração", "preco": "R$ 139.00", "imagem": "", "categoria": 4},
     {  "id": 8, "nome": "Mini Baú decorado", "preco": "R$ 189.00", "imagem": "", "categoria": 4}
   ],
+   "cliente": [
+    { "id": 1, "nome": "Mário L. Pacheco", "email": "pacheo.lioli@gmail.com" },
+    { "id": 2, "nome": "José da silva", "email": "jose.js@teste.com" },
+    { "id": 3, "nome": "Maria Pereira", "email": "maria.mp@teste.com" }
+  ],
+   "pedido": [
+    { "id": 1, "data pedido": "07/05/2021", "cliente": 1 },
+    { "id": 2, "data pedido": "07/05/2021", "cliente": 2 },
+    { "id": 3, "data pedido": "07/05/2021", "cliente": 3 },
+    { "id": 4, "data pedido": "07/05/2021", "cliente": 1 },
+    { "id": 5, "data pedido": "07/05/2021", "cliente": 2 },
+    { "id": 6, "data pedido": "10/05/2021", "cliente": 2 }
+   ],
+   "itens pedido": [
+      { "id": 1, "produto": 1, "preco produto": "R$ 149.00", "quantidade": 2 },
+      { "id": 2, "produto": 2, "preco produto": "R$ 359.00", "quantidade": 3 },
+      { "id": 3, "produto": 3, "preco produto": "R$ 255.00", "quantidade": 1 },
    "empresa": {
      "nome": "E-commerce" 
   }
