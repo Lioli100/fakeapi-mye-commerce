@@ -6,14 +6,14 @@
     {  "id": 4, "descricao":  "Presentes e Decorações" }
   ],
    "produto": [
-    {  "id": 1, "nome": "6 Girassóis amarrados com rafia",  "categoria": 1 },
-    {  "id": 2, "nome": "Caixa decorada com tampa",  "categoria": 2 },
-    {  "id": 3, "nome": "Cesta com cerveja artesanal",  "categoria": 2 },
-    {  "id": 4, "nome": "Cesta de café da manhã",  "categoira": 3},
-    {  "id": 5, "nome": "Maleta de café da manhã",  "categoria": 3 },
-    {  "id": 6, "nome": "Almofadas 40x40", "categoria": 4},
-    {  "id": 7, "nome": "Almofada coração", "categoria": 4},
-    {  "id": 8, "nome": "Mini Baú decorado", "categoria": 4}
+    {  "id": 1, "nome": "6 Girassóis amarrados com rafia", "preco": R$ 149.00, "imagem": "", "categoria": 1 },
+    {  "id": 2, "nome": "Caixa decorada com tampa", "preco": R$ 359.00, "imagem": "", "categoria": 2 },
+    {  "id": 3, "nome": "Cesta com cerveja artesanal", "preco": R$ 255.00, "imagem": "", "categoria": 2 },
+    {  "id": 4, "nome": "Cesta de café da manhã", "preco": R$ 250.00, "imagem": "", "categoira": 3},
+    {  "id": 5, "nome": "Maleta de café da manhã", "preco": R$ 360.00, "imagem": "", "categoria": 3 },
+    {  "id": 6, "nome": "Almofadas 40x40", "preco": R$ 79.00, "imagem": "", "categoria": 4},
+    {  "id": 7, "nome": "Almofada coração", "preco": R$ 139.00, "imagem": "", "categoria": 4},
+    {  "id": 8, "nome": "Mini Baú decorado", "preco": R$ 189.00, "imagem": "", "categoria": 4}
   ],
    "empresa": {
      "nome": "E-commerce" 
