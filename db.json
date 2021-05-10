@@ -13,7 +13,8 @@
     {  "id": 5, "nome": "Maleta de café da manhã", "preco": "R$ 360.00", "imagem": "", "categoria": 3 },
     {  "id": 6, "nome": "Almofadas 40x40", "preco": "R$ 79.00", "imagem": "", "categoria": 4},
     {  "id": 7, "nome": "Almofada coração", "preco": "R$ 139.00", "imagem": "", "categoria": 4},
-    {  "id": 8, "nome": "Mini Baú decorado", "preco": "R$ 189.00", "imagem": "", "categoria": 4}
+    {  "id": 8, "nome": "Mini Baú decorado", "preco": "R$ 189.00", "imagem": "", "categoria": 4},
+    {  "url_imagem": "" }
   ],
    "cliente": [
     { "id": 1, "nome": "Mário L. Pacheco", "email": "pacheo.lioli@gmail.com" },
