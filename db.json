@@ -1,20 +1,19 @@
 {
    "categoria": [
-    {  "id": 1, "descricao":  "Flores Naturais" },
-    {  "id": 2, "descricao":  "Bebidas" },
-    {  "id": 3, "descricao":  "Cestas de Café da Manhã" },
-    {  "id": 4, "descricao":  "Presentes e Decorações" }
+    {  "id": 1, "descricao":  "Flores Naturais", "Detalhes categoria": "Flores colidas em tempo certo e na estação certa."  },
+    {  "id": 2, "descricao":  "Bebidas", "Detalhes categoria": "Todos os tipos de bebidas refinadas." },
+    {  "id": 3, "descricao":  "Cestas de Café da Manhã", "Detalhes categoria": "Cestas preparadas com carinho e produtos de primeira." },
+    {  "id": 4, "descricao":  "Presentes e Decorações", "Detalhes categoria": "Os mais variados tipos de presentes e decorações." }
   ],
    "produto": [
-    {  "id": 1, "nome": "6 Girassóis amarrados com rafia", "preco": "R$ 149.00", "imagem": "", "categoria": 1 },
-    {  "id": 2, "nome": "Caixa decorada com tampa", "preco": "R$ 359.00", "imagem": "", "categoria": 2 },
-    {  "id": 3, "nome": "Cesta com cerveja artesanal", "preco": "R$ 255.00", "imagem": "", "categoria": 2 },
-    {  "id": 4, "nome": "Cesta de café da manhã", "preco": "R$ 250.00", "imagem": "", "categoira": 3},
-    {  "id": 5, "nome": "Maleta de café da manhã", "preco": "R$ 360.00", "imagem": "", "categoria": 3 },
-    {  "id": 6, "nome": "Almofadas 40x40", "preco": "R$ 79.00", "imagem": "", "categoria": 4},
-    {  "id": 7, "nome": "Almofada coração", "preco": "R$ 139.00", "imagem": "", "categoria": 4},
-    {  "id": 8, "nome": "Mini Baú decorado", "preco": "R$ 189.00", "imagem": "", "categoria": 4},
-    {  "url_imagem": "" }
+    {  "id": 1, "nome": "6 Girassóis amarrados com rafia", "preco": "R$ 149.00", "url_imagem": "", "categoria": 1 },
+    {  "id": 2, "nome": "Caixa decorada com tampa", "preco": "R$ 359.00", "url_imagem": "", "categoria": 2 },
+    {  "id": 3, "nome": "Cesta com cerveja artesanal", "preco": "R$ 255.00", "url_imagem": "", "categoria": 2 },
+    {  "id": 4, "nome": "Cesta de café da manhã", "preco": "R$ 250.00", "url_imagem": "", "categoira": 3},
+    {  "id": 5, "nome": "Maleta de café da manhã", "preco": "R$ 360.00", "url_imagem": "", "categoria": 3 },
+    {  "id": 6, "nome": "Almofadas 40x40", "preco": "R$ 79.00", "url_imagem": "", "categoria": 4},
+    {  "id": 7, "nome": "Almofada coração", "preco": "R$ 139.00", "url_imagem": "", "categoria": 4},
+    {  "id": 8, "nome": "Mini Baú decorado", "preco": "R$ 189.00", "url_imagem": "", "categoria": 4}
   ],
    "cliente": [
     { "id": 1, "nome": "Mário L. Pacheco", "email": "pacheo.lioli@gmail.com" },
