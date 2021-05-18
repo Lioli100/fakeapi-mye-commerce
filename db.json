@@ -10,7 +10,8 @@
     {  "id": 2, "nome": "Caixa decorada", "detalhes": "Caixa decorada com tampa", "preco": "R$ 359.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 2 },
     {  "id": 3, "nome": "Cesta artesanal", "detalhe": "Cesta com cerveja artesanal", "preco": "R$ 255.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 2 },
     {  "id": 4, "nome": "Cesta de café da manhã", "detalhes": "Cesta de café da manhã com diversos itens", "preco": "R$ 250.00", "url_imagem": "https://picsum.photos/200/300", "categoira": 3},
-    {  "id": 5, "nome": "Maleta de café da manhã", "detalhes": "Maleta de café da manhã com produtos de qualidade", "preco": "R$ 360.00", "url_imagem": "", "categoria": 3 },
+    {  "id": 5, "nome": "Maleta de café da manhã", "detalhes": "Detalhes do produto
+Maleta itens = 1 café solúvel, 1 cappuccino, 2 saches de açúcar + 2 saches de adoçante, 2 tipos de geleia, 2 tipos de frutas, 1 iogurte, 1 suco, 1 achocolatado , 1 água de coco, 1 wafer , 1 look , 1 pão de mel, 1 goiabinha 1 bolinho de laranja,1 sucrilho, 1 gourmet flay, 1 hot cracker 1 torrada , 1 barra de cereais 3 bolachinhas, 1 biscoito maisena, 1 clube social, 1 mamão papaia, 1 maça, 1 uva, frios, pães, 2 salgados de padaria, 2doces,1 térmica, 1 caneca e arranjo de flores.", "preco": "R$ 360.00", "url_imagem": "", "categoria": 3 },
     {  "id": 6, "nome": "Almofadas 40x40", "detalhe": "Almofadas de tamanho 40x40", "preco": "R$ 79.00", "url_imagem": "", "categoria": 4},
     {  "id": 7, "nome": "Almofada coração", "detalhe": "Almofada decorada no formato de coração", "preco": "R$ 139.00", "url_imagem": "", "categoria": 4},
     {  "id": 8, "nome": "Mini Baú decorado", "detalhe": "Mine baú decorado e variado", "preco": "R$ 189.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 4}
