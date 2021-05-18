@@ -6,14 +6,14 @@
     {  "id": 4, "descricao":  "Presentes e Decorações", "url_imagem": "https://picsum.photos/200/300", "Detalhes categoria": "Os mais variados tipos de presentes e decorações." }
   ],
    "produto": [
-    {  "id": 1, "nome": "6 Girassóis amarrados com rafia", "preco": "R$ 149.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 1 },
-    {  "id": 2, "nome": "Caixa decorada com tampa", "preco": "R$ 359.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 2 },
-    {  "id": 3, "nome": "Cesta com cerveja artesanal", "preco": "R$ 255.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 2 },
-    {  "id": 4, "nome": "Cesta de café da manhã", "preco": "R$ 250.00", "url_imagem": "https://picsum.photos/200/300", "categoira": 3},
-    {  "id": 5, "nome": "Maleta de café da manhã", "preco": "R$ 360.00", "url_imagem": "", "categoria": 3 },
-    {  "id": 6, "nome": "Almofadas 40x40", "preco": "R$ 79.00", "url_imagem": "", "categoria": 4},
-    {  "id": 7, "nome": "Almofada coração", "preco": "R$ 139.00", "url_imagem": "", "categoria": 4},
-    {  "id": 8, "nome": "Mini Baú decorado", "preco": "R$ 189.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 4}
+    {  "id": 1, "nome": "Girassóis com rafia", "detalhe": "6 Girassóis amarrados com rafia", "preco": "R$ 149.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 1 },
+    {  "id": 2, "nome": "Caixa decorada", "detalhes": "Caixa decorada com tampa", "preco": "R$ 359.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 2 },
+    {  "id": 3, "nome": "Cesta artesanal", "detalhe": "Cesta com cerveja artesanal", "preco": "R$ 255.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 2 },
+    {  "id": 4, "nome": "Cesta de café da manhã", "detalhes": "Cesta de café da manhã com diversos itens", "preco": "R$ 250.00", "url_imagem": "https://picsum.photos/200/300", "categoira": 3},
+    {  "id": 5, "nome": "Maleta de café da manhã", "detalhes": "Maleta de café da manhã com produtos de qualidade", "preco": "R$ 360.00", "url_imagem": "", "categoria": 3 },
+    {  "id": 6, "nome": "Almofadas 40x40", "detalhe": "Almofadas de tamanho 40x40", "preco": "R$ 79.00", "url_imagem": "", "categoria": 4},
+    {  "id": 7, "nome": "Almofada coração", "detalhe": "Almofada decorada no formato de coração", "preco": "R$ 139.00", "url_imagem": "", "categoria": 4},
+    {  "id": 8, "nome": "Mini Baú decorado", "detalhe": "Mine baú decorado e variado", "preco": "R$ 189.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 4}
   ],
    "cliente": [
     { "id": 1, "nome": "Mário L. Pacheco", "email": "pacheo.lioli@gmail.com" },
@@ -29,8 +29,8 @@
     { "id": 6, "data pedido": "10/05/2021", "cliente": 2 }
   ],
    "itens pedido": [
-    { "id": 1, "produto": 1, "preco produto": "R$ 149.00", "quantidade": 2 },
-    { "id": 2, "produto": 2, "preco produto": "R$ 359.00", "quantidade": 3 },
-    { "id": 3, "produto": 3, "preco produto": "R$ 255.00", "quantidade": 1 }
+    { "id": 1, "pedido": 1, "produto": 1, "preco produto": "R$ 149.00", "quantidade": 2 },
+    { "id": 2, "pdedo": 2, "produto": 2, "preco produto": "R$ 359.00", "quantidade": 3 },
+    { "id": 3, "pedido": 2, "produto": 3, "preco produto": "R$ 255.00", "quantidade": 1 }
   ]
 }
