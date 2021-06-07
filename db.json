@@ -1,9 +1,9 @@
 {
    "categoria": [
-    {  "id": 1, "descricao":  "Flores Naturais", "url_imagem": "https://d2j6dbq0eux0bg.cloudfront.net/images/28021094/1416025193.jpg", "Detalhe_cat": "Flores colidas em tempo certo e na estação certa."  },
-    {  "id": 2, "descricao":  "Bebidas", "url_imagem": "https://d2j6dbq0eux0bg.cloudfront.net/images/28021094/1623488464.jpg",  "Detalhe_cat": "Todos os tipos de bebidas refinadas." },
-    {  "id": 3, "descricao":  "Cestas de Café da Manhã", "url_imagem": "https://d2j6dbq0eux0bg.cloudfront.net/images/28021094/1623454929.jpg", "Detalhe_cat": "Cestas preparadas com carinho e produtos de primeira." },
-    {  "id": 4, "descricao":  "Presentes e Decorações", "url_imagem": "https://d2j6dbq0eux0bg.cloudfront.net/images/28021094/1416000716.jpg", "Detalhe_cat": "Os mais variados tipos de presentes e decorações." }
+    {  "id": 1, "descricao":  "Flores Naturais", "url_imagem": "https://picsum.photos/200/300", "Detalhe_cat": "Flores colidas em tempo certo e na estação certa."  },
+    {  "id": 2, "descricao":  "Bebidas", "url_imagem": "https://picsum.photos/200/300",  "Detalhe_cat": "Todos os tipos de bebidas refinadas." },
+    {  "id": 3, "descricao":  "Cestas de Café da Manhã", "url_imagem": "https://picsum.photos/200/300", "Detalhe_cat": "Cestas preparadas com carinho e produtos de primeira." },
+    {  "id": 4, "descricao":  "Presentes e Decorações", "url_imagem": "https://picsum.photos/200/300", "Detalhe_cat": "Os mais variados tipos de presentes e decorações." }
   ],
    "produto": [
     {  "id": 1, "nome": "Girassóis com rafia", "detalhe_prod": "6 Girassóis amarrados com rafia", "preco": "R$ 149.00", "url_imagem": "https://picsum.photos/200/300", "categoria": 1 },
